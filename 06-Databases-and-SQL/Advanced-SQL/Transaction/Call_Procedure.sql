@@ -1,0 +1,5 @@
+CALL TRANSACTION_ROSE;
+
+SELECT * FROM BankAccounts;
+
+SELECT * FROM ShoeShop;
