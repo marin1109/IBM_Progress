@@ -4,13 +4,16 @@ Bienvenue dans mon dépôt GitHub dédié à mes projets et travaux réalisés d
 
 ## 📚 À propos de la certification
 
-La certification **IBM Data Scientist Professional** est une formation complète, couvrant les fondements de la science des données, le nettoyage et la visualisation de données, le machine learning, ainsi que les compétences en Python pour l'analyse de données. Les modules incluent :
+La certification **IBM Data Scientist Professional** est une formation complète qui couvre les bases essentielles de la data science, avec un accent sur l'analyse de données, le nettoyage, la visualisation, et le machine learning. Les modules incluent :
 
-- **Python for Data Science** - Initiation aux bases de Python, incluant les bibliothèques populaires telles que Pandas, Numpy, et Matplotlib.
-- **Data Analysis with Python** - Analyse et visualisation de données pour la compréhension des tendances.
-- **Machine Learning with Python** - Techniques de machine learning supervisé et non supervisé avec Scikit-Learn.
-- **Data Visualization** - Création de visualisations intuitives et explicatives avec Matplotlib et Seaborn.
-  
+- **Python et bibliothèques de data science** (Pandas, Numpy) pour manipuler et analyser les données.
+- **Analyse et visualisation de données** pour explorer les tendances avec Matplotlib et Seaborn.
+- **Machine learning** avec Scikit-Learn pour les modèles supervisés et non supervisés.
+- **Gestion de bases de données** et SQL pour manipuler les données relationnelles.
+- **Outils de data science** comme Jupyter Notebooks, GitHub, et RStudio pour un flux de travail efficace.
+
+La certification combine théorie et projets pratiques pour maîtriser les compétences et les outils essentiels à une carrière en data science.
+
 ## 🗂 Structure du dépôt
 
 Chaque dossier dans ce dépôt correspond à un module ou projet de la certification, avec un notebook Jupyter documenté, expliquant le code et les analyses effectuées :
