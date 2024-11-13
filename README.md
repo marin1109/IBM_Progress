@@ -18,11 +18,13 @@ La certification combine théorie et projets pratiques pour maîtriser les comp�
 
 Chaque dossier dans ce dépôt correspond à un module ou projet de la certification, avec un notebook Jupyter documenté, expliquant le code et les analyses effectuées :
 
-- `02-Tools-for-Data-Science` : Présentation des outils et environnements essentiels pour les data scientists, incluant Jupyter Notebooks, RStudio, et GitHub.
-- `04-Python-Fundamentals` : Notions de base en Python, avec manipulation de types de données, structures de contrôle, fonctions, objets et classes.
-- `05-Python-Project-for-Data-Science` : Projet pratique complet en Python pour démontrer mes compétences dans un environnement réel.
-- `06-Databases-and-SQL` : Analyse de données dans des bases de données relationnelles, création de tables, et exécution de requêtes SQL avancées.
-- ...
+- `02-Tools-for-Data-Science` : exploration des bibliothèques, ensembles de données, modèles de machine learning et outils Big Data ; utilisation de langages comme Python, R et SQL ; maîtrise de Jupyter notebooks, RStudio et gestion du code source avec Git et GitHub.
+- `04-Python-Fundamentals` : maîtrise des bases de la programmation en Python pour le développement logiciel et la data science, incluant les variables, structures de données, boucles, fonctions, objets et classes ; utilisation des bibliothèques Pandas et Numpy, codage dans Jupyter Notebooks, et récupération de données via APIs et web scraping avec Beautiful Soup.
+- `05-Python-Project-for-Data-Science` : jouer le rôle d'un data scientist en appliquant les fondamentaux de Python, les structures de données et l'analyse de données pour construire un tableau de bord avec Pandas, Beautiful Soup et Plotly dans Jupyter Notebook.
+- `06-Databases-and-SQL` : création d'une base de données relationnelle et manipulation de tables avec les commandes DDL ; construction de requêtes SQL de niveau basique à intermédiaire avec les commandes DML ; utilisation de techniques avancées comme les vues, transactions, procédures stockées et jointures pour des analyses plus puissantes.
+- `07-Data-Analysis-with-Python` : développement de code pour le traitement des données, analyse exploratoire avec Pandas, Numpy et Scipy, et modélisation prédictive via Scikit-learn pour la prise de décision.
+- (...)
+
 
 ## 📈 Projets notables
 
