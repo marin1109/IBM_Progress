@@ -1,0 +1,42 @@
+# Environnements virtuels
+.venv/
+
+# Python
+*.pyc
+*.pyo
+__pycache__/
+*.pyd
+*.pdb
+*.egg
+*.egg-info/
+*.eggs
+*.manifest
+
+# Fichiers générés
+*.log
+*.out
+*.bak
+*.swp
+
+# Configurations IDE
+.idea/
+.vscode/
+
+# Dépendances
+*.lock
+Pipfile
+Pipfile.lock
+poetry.lock
+
+# Base de données locale
+*.sqlite3
+
+# Jetons et clés sensibles
+*.env
+*.key
+*.pem
+
+# Builds
+build/
+dist/
+*.spec
