@@ -13,7 +13,6 @@ data = airline_data.sample(n=500, random_state=42)
 
 fig = px.pie(data, values='Flights', names='DistanceGroup', title='Distance group proportion by flights')
 
-
 app = dash.Dash(__name__)
 
 app.layout = html.Div(children=[html.H1('Airline On-Time Performance Dashboard',
