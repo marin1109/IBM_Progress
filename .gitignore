@@ -40,5 +40,3 @@ poetry.lock
 build/
 dist/
 *.spec
-
-./09-Machine-Learning-with-Python/9.3-Building-Supervised-Learning-Models/data/creditcard.csv
