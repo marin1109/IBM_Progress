@@ -74,10 +74,6 @@ Voici un aperçu de la structure générale :
    - Implémentation d’algorithmes de machine learning (régression, classification, clustering).  
    - Évaluation de modèles, tuning d’hyperparamètres, validation croisée.
 
-8. **`10-Applied-Data-Science-Capstone`**  
-   - Projet final regroupant l’ensemble des compétences acquises.  
-   - Résolution d’un problème data de bout en bout, de la collecte à la présentation des résultats.
-
 9. **`Generative-AI-and-Projects`**
    - Intégration d’outils d’IA générative (GPT, ChatGPT, etc.) pour simplifier le nettoyage ou l’exploration des données. 
 
